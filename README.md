@@ -1,4 +1,4 @@
-# Technical Test Back-End Apprenticeship Program
+# Technical Test Back-End 
 
 ## Goal
 
